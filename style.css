@@ -1,12 +1,41 @@
+* {
+    flex: 1;
+}
 
-#root {
+#main {
     position: relative;
     font-family: "Trirong", serif;
     color: white;
     text-align: center;
     border: 10px black;
     border-radius: 10px;
-    background-color: #0043BC;
-    box-shadow:0px 0px 10px #2680E1;
-    padding: 10px 10px 10px 10px;
+    background-color: #08818a;
+    box-shadow:0px 0px 10px #08818a;
+    margin: 10px 2px 10px 2px;
+}
+#div1 {
+    float: left;
+    width: 49%;
+    position: relative;
+    font-family: "Trirong", serif;
+    color: white;
+    text-align: center;
+    border: 10px black;
+    border-radius: 10px;
+    background-color: #000000;
+    box-shadow:0px 0px 10px #000000;
+    margin: 0px 2px 10px 2px;
+}
+#div2 {
+    float: right;
+    width: 49%;
+    position: relative;
+    font-family: "Trirong", serif;
+    color: white;
+    text-align: center;
+    border: 10px black;
+    border-radius: 10px;
+    background-color: #0e92df;
+    box-shadow:0px 0px 10px #0e92df;
+    margin: 0px 2px 10px 2px;
 }
