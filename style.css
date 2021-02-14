@@ -1,0 +1,12 @@
+
+#root {
+    position: relative;
+    font-family: "Trirong", serif;
+    color: white;
+    text-align: center;
+    border: 10px black;
+    border-radius: 10px;
+    background-color: #0043BC;
+    box-shadow:0px 0px 10px #2680E1;
+    padding: 10px 10px 10px 10px;
+}
